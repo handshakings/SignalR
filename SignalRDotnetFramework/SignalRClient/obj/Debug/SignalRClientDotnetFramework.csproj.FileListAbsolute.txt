@@ -1,0 +1,17 @@
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\SignalRClientDotnetFramework.exe.config
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\SignalRClientDotnetFramework.exe
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\SignalRClientDotnetFramework.pdb
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\Newtonsoft.Json.dll
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\Scrp\SignalR\SignalRClientDotnetFramework\bin\Debug\Newtonsoft.Json.xml
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.csproj.AssemblyReference.cache
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.csproj.SuggestedBindingRedirects.cache
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.Home.resources
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.Properties.Resources.resources
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.csproj.GenerateResource.cache
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.csproj.CoreCompileInputs.cache
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.csproj.CopyComplete
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.exe
+E:\Scrp\SignalR\SignalRClientDotnetFramework\obj\Debug\SignalRClientDotnetFramework.pdb

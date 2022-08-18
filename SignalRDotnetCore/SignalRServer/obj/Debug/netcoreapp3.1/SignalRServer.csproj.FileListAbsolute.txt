@@ -1,0 +1,13 @@
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.exe
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.deps.json
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.runtimeconfig.json
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.runtimeconfig.dev.json
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.dll
+E:\Scrp\ClientWebSocket\SignalRServer\bin\Debug\netcoreapp3.1\SignalRServer.pdb
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.AssemblyInfoInputs.cache
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.AssemblyInfo.cs
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.csproj.CoreCompileInputs.cache
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.dll
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.pdb
+E:\Scrp\ClientWebSocket\SignalRServer\obj\Debug\netcoreapp3.1\SignalRServer.genruntimeconfig.cache

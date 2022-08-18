@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SignalRDotnetCore", "SignalRDotnetCore", "{0AFB24BF-C20E-43F7-91E8-6F88EB9B459B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRClient", "SignalRDotnetCore\SignalRClient\SignalRClient.csproj", "{86B450B5-C722-449E-92D3-057F16AA9604}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRServer", "SignalRDotnetCore\SignalRServer\SignalRServer.csproj", "{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SignalRDotnetFramework", "SignalRDotnetFramework", "{61779636-9AED-4B6F-93EF-7C4B573DD3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRClient", "SignalRDotnetFramework\SignalRClient\SignalRClient.csproj", "{0A660BCE-935D-4A64-97FA-75E61F38473E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServer", "SignalRDotnetFramework\SignalRServer\SignalRServer.csproj", "{FF719B74-3EFA-490E-8CAC-5755E21ECC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B450B5-C722-449E-92D3-057F16AA9604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B450B5-C722-449E-92D3-057F16AA9604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B450B5-C722-449E-92D3-057F16AA9604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B450B5-C722-449E-92D3-057F16AA9604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A660BCE-935D-4A64-97FA-75E61F38473E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A660BCE-935D-4A64-97FA-75E61F38473E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A660BCE-935D-4A64-97FA-75E61F38473E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A660BCE-935D-4A64-97FA-75E61F38473E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF719B74-3EFA-490E-8CAC-5755E21ECC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF719B74-3EFA-490E-8CAC-5755E21ECC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF719B74-3EFA-490E-8CAC-5755E21ECC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF719B74-3EFA-490E-8CAC-5755E21ECC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86B450B5-C722-449E-92D3-057F16AA9604} = {0AFB24BF-C20E-43F7-91E8-6F88EB9B459B}
+		{235A6FD4-E6BA-4721-87FB-8B8CA6EEFCB0} = {0AFB24BF-C20E-43F7-91E8-6F88EB9B459B}
+		{0A660BCE-935D-4A64-97FA-75E61F38473E} = {61779636-9AED-4B6F-93EF-7C4B573DD3D9}
+		{FF719B74-3EFA-490E-8CAC-5755E21ECC3F} = {61779636-9AED-4B6F-93EF-7C4B573DD3D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02DA627-BBBB-4E84-81B0-B6450F7AD329}
+	EndGlobalSection
+EndGlobal

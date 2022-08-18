@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86b450b5-c722-449e-92d3-057f16aa9604": {
+      "ProjectGuid": "86b450b5-c722-449e-92d3-057f16aa9604",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 0
+    },
+    "ff719b74-3efa-490e-8cac-5755e21ecc3f": {
+      "ProjectGuid": "ff719b74-3efa-490e-8cac-5755e21ecc3f",
+      "DisplayName": "SignalRServer",
+      "ColorIndex": 1
+    },
+    "61779636-9aed-4b6f-93ef-7c4b573dd3d9": {
+      "ProjectGuid": "61779636-9aed-4b6f-93ef-7c4b573dd3d9",
+      "DisplayName": "SignalRDotnetFramework",
+      "ColorIndex": 2
+    },
+    "678b6392-801d-4a84-acf6-803ae1a7b271": {
+      "ProjectGuid": "678b6392-801d-4a84-acf6-803ae1a7b271",
+      "DisplayName": "SignalRClientJS",
+      "ColorIndex": 3
+    },
+    "1ca0a616-2317-4f10-b081-79d89dc09db9": {
+      "ProjectGuid": "1ca0a616-2317-4f10-b081-79d89dc09db9",
+      "DisplayName": "SignalRClientJS",
+      "ColorIndex": 4
+    },
+    "235a6fd4-e6ba-4721-87fb-8b8ca6eefcb0": {
+      "ProjectGuid": "235a6fd4-e6ba-4721-87fb-8b8ca6eefcb0",
+      "DisplayName": "SignalRServer",
+      "ColorIndex": 5
+    },
+    "89db9253-1c97-47cd-b2f7-d84b3b08f7eb": {
+      "ProjectGuid": "89db9253-1c97-47cd-b2f7-d84b3b08f7eb",
+      "DisplayName": "SignalRServerSelfhost",
+      "ColorIndex": 6
+    },
+    "0a660bce-935d-4a64-97fa-75e61f38473e": {
+      "ProjectGuid": "0a660bce-935d-4a64-97fa-75e61f38473e",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}
