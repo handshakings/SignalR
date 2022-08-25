@@ -226,9 +226,6 @@ namespace SignalRClient
         }
         private async IAsyncEnumerable<byte[]> ReadChunk(string path)
         {
-            using var fsr = new FileStream(path, FileMode.Open, FileAccess.Read);
-            long fileSize = new FileInfo(path).Length;
-            long remainingBytes = fileSize;
             byte[] buffer = new byte[1024];
             FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read);
             
